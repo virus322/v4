@@ -1,15 +1,15 @@
-<p align="center"> ![http://www.axgig.com/images/46592705726635031187.png](http://www.axgig.com/images/46592705726635031187.png)
-# [Jove V6.7](https://telegram.me/JoveTG)
+<p align="center"> ![http://www.shomaya.cf/theme/images/avatars/47_1486235360.jpg](http://www.shomaya.cf/theme/images/avatars/47_1486235360.jpg)
+# [v2](https://telegram.me/virusantibot)
 
 | Bot Name | Description | Powered By | Team name |
 |:--------|:------------|:------------|:------------|
-| Jove | Cli Anti Spam bot version 6.7 | Pouya Poorrahman | Titan Zeus |
+| virusantibot | Virus Anti Spam bot version 2 | virus32 | virusantibot |
 
 *BYE GITHUB
 
-[POUYA POORRAHMAN]
+[virus32]
 
-*@vVv_ERPO_vVv
+*@virusantibot 
 
 <table><thead>
 <tr>
@@ -20,7 +20,7 @@
 
 <div class="highlight highlight-source-shell"><pre>وقتی وارد سرور شدید(حالا به هرروشی با اندروید توسط ConnectBot یا باسیستم توسط putty)
 دستور زیرو بزنید
-git clone https://github.com/JOVETEAM/jove
+git clone https://github.com/virus322/v2
 سپس دستور
 chmod +x install
 و بعد از اون دستور
